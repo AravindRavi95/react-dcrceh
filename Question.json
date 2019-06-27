@@ -3,7 +3,7 @@
  {
    "Round":1,
    "TeamName": 1,
-   "Question": "<img src='./download.jpg'></img>",
+   "Question": "<img src='./download.jpg' />",
    "Option1": "Bus",
    "Option2": "Star",
    "Option3": "Ring",
