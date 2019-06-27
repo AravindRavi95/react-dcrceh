@@ -3,8 +3,8 @@
  {
    "Round":1,
    "TeamName": 1,
-  //  "Question": "Which network topology requires Terminator?",
-   "Question": "<img src='./download.jpg'/>",
+   "Question": "Which network topology requires Terminator?",
+  //  "Question": "<img src='./download.jpg'/>",
    "Option1": "Bus",
    "Option2": "Star",
    "Option3": "Ring",
